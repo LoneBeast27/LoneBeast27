@@ -2,7 +2,7 @@
 
 I build AI systems that actually run — not notebooks, not demos, production infrastructure.
 
-Right now I'm deep in applied AI engineering: deploying LLMs on local hardware, building tool-calling agents, and wiring up self-healing automation pipelines. My homelab runs 40+ Docker containers orchestrated across 7 stacks, including a two-tier LLM architecture on an RTX 5090 that handles natural language ops for the entire system.
+Right now I'm deep in applied AI engineering: deploying LLMs on local hardware, building tool-calling agents, and wiring up self-healing automation pipelines. My homelab runs 50+ Docker containers orchestrated across 7 stacks, including a two-tier LLM architecture on an RTX 5090 that handles natural language ops for the entire system.
 
 ## What I work with
 
@@ -20,7 +20,7 @@ Right now I'm deep in applied AI engineering: deploying LLMs on local hardware, 
 
 - Building applied AI infrastructure and looking for my next role
 - Open to **Applied AI Engineer**, **ML Infrastructure**, and **AI-adjacent backend** positions
-- Reach me at [LinkedIn](https://linkedin.com/in/) or open an issue on any repo
+- Reach me at [LinkedIn](https://linkedin.com/in/rohan-menon-a537062a5) or open an issue on any repo
 
 ---
 
